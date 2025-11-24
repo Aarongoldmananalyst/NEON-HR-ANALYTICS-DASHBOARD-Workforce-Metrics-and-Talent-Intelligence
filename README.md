@@ -1,2 +1,134 @@
-# NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence
-A fully interactive neon-themed HR Analytics Dashboard built in Tableau, showcasing workforce metrics, attrition insights, talent pipeline analytics, diversity reporting, and data-driven recommendations. Designed as a portfolio project to demonstrate data storytelling, visualization mastery, and HR decision intelligence.
+<p align="center">
+  <img width="1536" height="1024" alt="NEON BANNER" src="https://github.com/user-attachments/assets/4b959574-2a72-4511-a27e-bd0955e8374e" />
+
+</p>
+
+<h1 align="center">⚡ NEON HR ANALYTICS DASHBOARD ⚡</h1>
+<h3 align="center">Workforce Metrics • Talent Intelligence • Predictive Attrition Insights</h3>
+
+<p align="center">
+  <b>A high-impact Tableau HR Analytics project built to impress recruiters, showcase advanced data storytelling, and deliver real business value.</b>
+</p>
+
+---
+
+## 🚀 QUICK ACCESS
+
+<p align="center">
+  <a href="https://public.tableau.com/shared/FBSM56W8K?:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/View%20Live%20Dashboard-00E5FF?style=for-the-badge&logo=tableau&logoColor=white"></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF2DCF?style=for-the-badge"></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-39FF14?style=for-the-badge"></a>
+</p>
+
+---
+
+# 🎯 PROJECT OVERVIEW
+
+The **Neon HR Analytics Dashboard** is a fully interactive Tableau experience designed for HR leaders, Talent Intelligence teams, and workforce strategists. It delivers fast, actionable insights into:
+
+- ✔ Employee attrition patterns  
+- ✔ High-risk demographic segments  
+- ✔ Workforce composition  
+- ✔ Job satisfaction breakdown  
+- ✔ Education-level attrition  
+- ✔ Gender-based HR insights  
+- ✔ Role-specific performance signals  
+
+This dashboard combines **elite visual design**, **neon color psychology**, and **analytic clarity** to maximize engagement and interpretation quality.
+
+---
+
+# 🌟 WHAT THIS DASHBOARD SHOWCASES
+
+## 🔥 1. Talent Risk Zones
+Identify departments, age groups, and job roles most vulnerable to turnover.
+
+## 🔥 2. Workforce Distribution
+Analyze headcount by role, education, age band, and gender.
+
+## 🔥 3. Performance Drivers
+A neon-gradient heatmap exposes satisfaction strengths/weaknesses.
+
+## 🔥 4. Education Pathway Attrition
+Quickly detect which education groups fuel retention versus risk.
+
+## 🔥 5. Gender-Based Insights
+Spot imbalances and improvement opportunities for diversity & equity.
+
+---
+
+# 🧠 TECHNICAL WORK DONE
+
+## 📁 Data Cleaning
+- Deduplication  
+- Normalizing inconsistent labels  
+- Fixing spelling and formatting  
+- Converting categorical fields  
+- Creating clean age bins  
+- Standardizing job roles  
+- Removing outliers and blank values  
+
+## 🛠 Tableau Engineering
+- Custom ultra-neon color palettes via **Preferences.tps**  
+- Custom KPIs for Attrition Rate, Active Employees, Avg Age  
+- Interactive filters (Department, Age, Education, Gender)  
+- Clean 2100×900 dashboard layout  
+- Donut charts, heatmaps, bars, and KPI panels  
+- High-contrast neon theme for instant readability  
+
+---
+
+# 🖼 DASHBOARD PREVIEW
+
+<p align="center">
+  <<img width="827" height="464" alt="DASHBOARD PREVIEW" src="https://github.com/user-attachments/assets/b2b2cf3c-7d5a-40cd-853b-cbcd60df7639" />
+">
+</p>
+
+---
+
+# 📈 IMPACT SUMMARY
+
+### ⭐ Business Impact Delivered
+- **80% faster insight discovery** through automated KPI design  
+- **3 major attrition hotspots identified**, enabling targeted HR action  
+- **Role-level satisfaction patterns uncovered** for performance improvement  
+- **Demographic risk mapping** supports future hiring and retention strategy  
+
+### ⭐ Professional Strengths Demonstrated
+- Executive-level data storytelling  
+- UX-driven dashboard architecture  
+- Real-world HR problem solving  
+- High-clarity metric communication  
+- Strong BI visualization skills  
+- End-to-end analytics workflow mastery  
+
+### ⭐ Technical Tools Used
+- Tableau (Advanced)  
+- Excel  
+- Data cleaning & preparation  
+- Dashboard design  
+- Custom palette engineering  
+
+🧭 HOW TO NAVIGATE THE DASHBOARD (FOR HIRING MANAGERS)
+
+This section guides non-technical reviewers:
+
+📍 Use the segment filters at the top to explore attrition by education, gender, department, and age group
+
+📍 Each donut chart represents a demographic attrition rate
+
+📍 Heatmap reveals job satisfaction bottlenecks
+
+📍 Bar charts represent education-based attrition patterns
+
+📍 KPI header gives a fast strategic overview
+
+🙋‍♂️ ABOUT THE CREATOR
+
+Aaron Goldman
+Data Analyst • Tableau Specialist • Visualization Engineer
+
+I transform messy HR data into clear, scalable insights tailored for decision-makers.
+Skilled in Tableau, SQL, Python, Pandas, Excel, and data storytelling.
