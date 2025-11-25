@@ -111,24 +111,62 @@ Spot imbalances and improvement opportunities for diversity & equity.
 - Dashboard design  
 - Custom palette engineering  
 
-🧭 HOW TO NAVIGATE THE DASHBOARD (FOR HIRING MANAGERS)
+# 💼 NEXT STEPS & RECRUITER QUICK ACTIONS
 
-This section guides non-technical reviewers:
+# 🔥  ABOUT THE CREATOR
 
-📍 Use the segment filters at the top to explore attrition by education, gender, department, and age group
+# Aaron Goldman
+Data Analyst • Tableau Specialist • Workforce Insights & Talent Analytics
 
-📍 Each donut chart represents a demographic attrition rate
+I transform messy HR data into clear, decision-ready insights. Skilled in Tableau, SQL, Python, Pandas, Excel, and high-impact data storytelling — especially interactive dashboards that expose
+attrition patterns, workforce trends, talent risks, diversity gaps, and productivity drivers.
 
-📍 Heatmap reveals job satisfaction bottlenecks
+# 🧭 HOW TO NAVIGATE THIS DASHBOARD (FOR HIRING MANAGERS)
 
-📍 Bar charts represent education-based attrition patterns
+✔ Use the segment filters at the top to explore attrition by education, gender, department, and age.
+✔ Each donut chart highlights demographic retention strength/weakness.
+✔ Heatmaps reveal job satisfaction bottlenecks.
+✔ Bar charts pinpoint education-based attrition patterns.
+✔ KPI headers give a fast strategic overview.
 
-📍 KPI header gives a fast strategic overview
+# 🛠️ TECH STACK
 
-🙋‍♂️ ABOUT THE CREATOR
+Tools Used:
 
-Aaron Goldman
-Data Analyst • Tableau Specialist • Visualization Engineer
+Tableau (Advanced)
 
-I transform messy HR data into clear, scalable insights tailored for decision-makers.
-Skilled in Tableau, SQL, Python, Pandas, Excel, and data storytelling.
+Excel
+
+SQL
+
+Python (data cleaning + automation)
+
+Custom neon palette engineering
+
+Dashboard UX design
+
+# 🎯 BUSINESS VALUE DELIVERED
+
+80% faster HR insights via automated KPI design
+
+3 major attrition hotspots identified enabling targeted retention action
+
+Role-level satisfaction patterns revealed for performance improvement
+
+Demographic risk mapping supports future recruiting & retention strategy
+
+# 🌐 CONNECT & EXPLORE MORE
+
+
+
+
+
+
+<p align="center">
+  <a href="https://public.tableau.com/shared/FBSM56W8K?:display_count=n&:origin=viz_share_link"><img src="https://img.shields.io/badge/View%20Live%20Dashboard-00E5FF?style=for-the-badge&logo=tableau&logoColor=white"></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF2DCF?style=for-the-badge"></a>
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-39FF14?style=for-the-badge"></a>
+<a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Contact%20Me-FCFF00?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
