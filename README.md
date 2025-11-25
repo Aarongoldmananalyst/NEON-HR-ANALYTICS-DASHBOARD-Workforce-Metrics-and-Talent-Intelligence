@@ -7,7 +7,7 @@
 <h3 align="center">Workforce Metrics • Talent Intelligence • Predictive Attrition Insights</h3>
 
 <p align="center">
-  <b>A high-impact Tableau HR Analytics project built to impress recruiters, showcase advanced data storytelling, and deliver real business value.</b>
+  <b>A high-impact Tableau HR Analytics project showcases advanced data storytelling, and delivers real business value.</b>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-# 🎯 PROJECT OVERVIEW
+## 🎯 PROJECT OVERVIEW
 
 The **Neon HR Analytics Dashboard** is a fully interactive Tableau experience designed for HR leaders, Talent Intelligence teams, and workforce strategists. It delivers fast, actionable insights into:
 
@@ -39,7 +39,7 @@ This dashboard combines **elite visual design**, **neon color psychology**, and 
 
 ---
 
-# 🌟 WHAT THIS DASHBOARD SHOWCASES
+## 🌟 WHAT THIS DASHBOARD SHOWCASES
 
 ## 🔥 1. Talent Risk Zones
 Identify departments, age groups, and job roles most vulnerable to turnover.
@@ -58,7 +58,7 @@ Spot imbalances and improvement opportunities for diversity & equity.
 
 ---
 
-# 🧠 TECHNICAL WORK DONE
+## 🧠 TECHNICAL WORK DONE
 
 ## 📁 Data Cleaning
 - Deduplication  
@@ -79,7 +79,7 @@ Spot imbalances and improvement opportunities for diversity & equity.
 
 ---
 
-# 🖼 DASHBOARD PREVIEW
+## 🖼 DASHBOARD PREVIEW
 
 <p align="center">
   <<img width="827" height="464" alt="DASHBOARD PREVIEW" src="https://github.com/user-attachments/assets/b2b2cf3c-7d5a-40cd-853b-cbcd60df7639" />
@@ -88,7 +88,7 @@ Spot imbalances and improvement opportunities for diversity & equity.
 
 ---
 
-# 📈 IMPACT SUMMARY
+## 📈 IMPACT SUMMARY
 
 ### ⭐ Business Impact Delivered
 - **80% faster insight discovery** through automated KPI design  
@@ -111,17 +111,17 @@ Spot imbalances and improvement opportunities for diversity & equity.
 - Dashboard design  
 - Custom palette engineering  
 
-# 💼 NEXT STEPS & RECRUITER QUICK ACTIONS
+## 💼 NEXT STEPS & RECRUITER QUICK ACTIONS
 
-# 🔥  ABOUT THE CREATOR
+## 🔥  ABOUT THE CREATOR
 
-# Aaron Goldman
+## Aaron Goldman
 Data Analyst • Tableau Specialist • Workforce Insights & Talent Analytics
 
 I transform messy HR data into clear, decision-ready insights. Skilled in Tableau, SQL, Python, Pandas, Excel, and high-impact data storytelling — especially interactive dashboards that expose
 attrition patterns, workforce trends, talent risks, diversity gaps, and productivity drivers.
 
-# 🧭 HOW TO NAVIGATE THIS DASHBOARD (FOR HIRING MANAGERS)
+## 🧭 HOW TO NAVIGATE THIS DASHBOARD (FOR HIRING MANAGERS)
 
 ✔ Use the segment filters at the top to explore attrition by education, gender, department, and age.
 ✔ Each donut chart highlights demographic retention strength/weakness.
@@ -129,7 +129,7 @@ attrition patterns, workforce trends, talent risks, diversity gaps, and producti
 ✔ Bar charts pinpoint education-based attrition patterns.
 ✔ KPI headers give a fast strategic overview.
 
-# 🛠️ TECH STACK
+## 🛠️ TECH STACK
 
 Tools Used:
 
@@ -145,7 +145,7 @@ Custom neon palette engineering
 
 Dashboard UX design
 
-# 🎯 BUSINESS VALUE DELIVERED
+##  🎯 BUSINESS VALUE DELIVERED
 
 80% faster HR insights via automated KPI design
 
@@ -155,7 +155,7 @@ Role-level satisfaction patterns revealed for performance improvement
 
 Demographic risk mapping supports future recruiting & retention strategy
 
-# 🌐 CONNECT & EXPLORE MORE
+##  🌐 CONNECT & EXPLORE MORE
 
 
 
