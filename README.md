@@ -32,6 +32,15 @@ https://github.com/Aarongoldmananalyst/REPO_NAME/blob/main/Neon_HR_Analytics_Das
 ---
 ▶️ Click the image above to play the dashboard walkthrough.
 
+## 🎥 Dashboard Walkthrough (30 seconds)
+
+[![Neon HR Analytics Dashboard](Neon_HR_Analytics_Dashboard.png)](
+https://github.com/Aarongoldmananalyst/REPO_NAME/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
+)
+
+▶️ Click the image above to watch the dashboard walkthrough.
+
+
 
 ## 🚀 QUICK ACCESS
 
