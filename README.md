@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/e8004917-6d0c-44cd-84c8-874f760448ab
 
 ### 🔍 Interactive Dashboard Walkthrough (Silent Demo)
 <p >
-  <b>This short, silent walkthrough demonstrates how users interact with the dashboard.</b>
+  <b>This short, silent walkthrough demonstrates how stakeholders interact with the dashboard to explore workforce risk.</b>
 </p>
 
 
