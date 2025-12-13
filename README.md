@@ -1,6 +1,10 @@
 <p align="center">
   <img width="1536" height="1024" alt="NEON BANNER" src="https://github.com/user-attachments/assets/4b959574-2a72-4511-a27e-bd0955e8374e" />
 
+
+
+
+
 </p>
 
 <h1 align="center">⚡ NEON HR ANALYTICS DASHBOARD ⚡</h1>
@@ -11,60 +15,21 @@
 </p>
 
 ---
+https://github.com/user-attachments/assets/e8004917-6d0c-44cd-84c8-874f760448ab
 
+### 🔍 Interactive Dashboard Walkthrough (Silent Demo)
 
-## 🎥 Dashboard Walkthrough (30 seconds)
+This short, silent walkthrough highlights the interactive design of the dashboard:
 
-![Neon HR Analytics Dashboard](Neon_HR_Analytics_Dashboard.png)
+- Hover-based tooltips reveal detailed metrics and exact values  
+- Clickable visuals enable cross-filtering across departments, roles, and demographics  
+- Dynamic filters allow users to explore attrition by education level and age group  
+- All charts update in real time to support fast, exploratory analysis  
 
-https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/raw/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
-
-
-
-## 🎥 Dashboard Walkthrough (30 seconds)
-
-https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/raw/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
-
-
-## 🎥 Dashboard Walkthrough (30 seconds)
-
-[![Neon HR Analytics Dashboard](Neon_HR_Analytics_Dashboard.png)](
-https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
-)
-
-▶️ Click the image above to watch the 30-second dashboard walkthrough.
-
-
-
-
-## 🎥 Dashboard Walkthrough (30 seconds)
-
-[![Neon HR Analytics Dashboard Walkthrough](Neon_HR_Analytics_Dashboard.png)](
-https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
-)
-
-▶️ Click the image above to play the dashboard walkthrough.
+The dashboard is designed to help HR leaders quickly identify high-risk talent segments, understand workforce patterns, and support data-driven retention decisions.
 
 
 ---
-
-## 🎥 Dashboard Walkthrough (30 seconds)
-
-[![Dashboard Walkthrough](Neon_HR_Analytics_Dashboard.png)](
-https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
-)
-
----
-▶️ Click the image above to play the dashboard walkthrough.
-
-## 🎥 Dashboard Walkthrough (30 seconds)
-
-[![Neon HR Analytics Dashboard](Neon_HR_Analytics_Dashboard.png)](
-https://github.com/Aarongoldmananalyst/REPO_NAME/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
-)
-
-▶️ Click the image above to watch the dashboard walkthrough.
-
 
 
 ## 🚀 QUICK ACCESS
