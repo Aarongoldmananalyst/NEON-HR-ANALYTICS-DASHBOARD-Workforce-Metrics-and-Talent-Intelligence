@@ -17,6 +17,9 @@
 ---
 https://github.com/user-attachments/assets/e8004917-6d0c-44cd-84c8-874f760448ab
 
+  > *Silent demo showing cross-filtering, tooltips, and dynamic workforce segmentation.*
+
+
 ### 🔍 Interactive Dashboard Walkthrough (Silent Demo)
 
 This short, silent walkthrough highlights the interactive design of the dashboard:
@@ -26,8 +29,7 @@ This short, silent walkthrough highlights the interactive design of the dashboar
 - Dynamic filters allow users to explore attrition by education level and age group  
 - All charts update in real time to support fast, exploratory analysis  
 
-The dashboard is designed to help HR leaders quickly identify high-risk talent segments, understand workforce patterns, and support data-driven retention decisions.
-
+“The dashboard enables HR leaders to quickly identify high-risk talent segments and prioritize targeted retention actions.”
 
 ---
 
