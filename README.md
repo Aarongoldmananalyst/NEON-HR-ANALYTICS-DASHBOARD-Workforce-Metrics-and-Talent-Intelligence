@@ -14,6 +14,17 @@
 
 ## 🎥 Dashboard Walkthrough (30 seconds)
 
+[![Neon HR Analytics Dashboard](Neon_HR_Analytics_Dashboard.png)](
+https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
+)
+
+▶️ Click the image above to watch the 30-second dashboard walkthrough.
+
+
+
+
+## 🎥 Dashboard Walkthrough (30 seconds)
+
 [![Neon HR Analytics Dashboard Walkthrough](Neon_HR_Analytics_Dashboard.png)](
 https://github.com/Aarongoldmananalyst/NEON-HR-ANALYTICS-DASHBOARD-Workforce-Metrics-and-Talent-Intelligence/blob/main/Neon_HR_Analytics_Dashboard_Walkthrough.mp4
 )
