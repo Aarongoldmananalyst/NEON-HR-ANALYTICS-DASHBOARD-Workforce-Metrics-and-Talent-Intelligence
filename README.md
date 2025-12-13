@@ -21,8 +21,10 @@ https://github.com/user-attachments/assets/e8004917-6d0c-44cd-84c8-874f760448ab
 
 
 ### 🔍 Interactive Dashboard Walkthrough (Silent Demo)
+<p >
+  <b>This short, silent walkthrough demonstrates how users interact with the dashboard.</b>
+</p>
 
-This short, silent walkthrough highlights the interactive design of the dashboard:
 
 - Hover-based tooltips reveal detailed metrics and exact values  
 - Clickable visuals enable cross-filtering across departments, roles, and demographics  
@@ -104,8 +106,8 @@ Spot imbalances and improvement opportunities for diversity & equity.
 ## 🖼 DASHBOARD PREVIEW
 
 <p align="center">
-  <<img width="827" height="464" alt="DASHBOARD PREVIEW" src="https://github.com/user-attachments/assets/b2b2cf3c-7d5a-40cd-853b-cbcd60df7639" />
-">
+  <img width="827" height="464" alt="DASHBOARD PREVIEW" src="https://github.com/user-attachments/assets/b2b2cf3c-7d5a-40cd-853b-cbcd60df7639" />
+
 </p>
 
 ---
