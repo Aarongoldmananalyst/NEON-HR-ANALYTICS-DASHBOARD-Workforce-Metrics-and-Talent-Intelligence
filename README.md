@@ -103,14 +103,7 @@ Spot imbalances and improvement opportunities for diversity & equity.
 
 ---
 
-## 🖼 DASHBOARD PREVIEW
 
-<p align="center">
-  <img width="827" height="464" alt="DASHBOARD PREVIEW" src="https://github.com/user-attachments/assets/b2b2cf3c-7d5a-40cd-853b-cbcd60df7639" />
-
-</p>
-
----
 
 ## 📈 IMPACT SUMMARY
 
