@@ -144,7 +144,17 @@ Spot imbalances and improvement opportunities for diversity & equity.
 - Dashboard design  
 - Custom palette engineering  
 
+---
+
+
 ## 💼 NEXT STEPS & RECRUITER QUICK ACTIONS
+- ▶️ Watch the 30-second interactive dashboard walkthrough above  
+- 📊 Explore the live Tableau dashboard using filters and drill-downs  
+- 🔗 Connect with me on LinkedIn or view my resume for full project context
+
+
+---
+
 
 ## 🔥  ABOUT THE CREATOR
 
@@ -154,6 +164,9 @@ Data Analyst • Tableau Specialist • Workforce Insights & Talent Analytics
 I transform messy HR data into clear, decision-ready insights. Skilled in Tableau, SQL, Python, Pandas, Excel, and high-impact data storytelling — especially interactive dashboards that expose
 attrition patterns, workforce trends, talent risks, diversity gaps, and productivity drivers.
 
+---
+
+
 ## 🧭 HOW TO NAVIGATE THIS DASHBOARD (FOR HIRING MANAGERS)
 
 ✔ Use the segment filters at the top to explore attrition by education, gender, department, and age.
@@ -161,6 +174,9 @@ attrition patterns, workforce trends, talent risks, diversity gaps, and producti
 ✔ Heatmaps reveal job satisfaction bottlenecks.
 ✔ Bar charts pinpoint education-based attrition patterns.
 ✔ KPI headers give a fast strategic overview.
+
+---
+
 
 ## 🛠️ TECH STACK
 
