@@ -123,11 +123,16 @@ Spot imbalances and improvement opportunities for diversity & equity.
 
 ## 📈 IMPACT SUMMARY
 
+
 ### ⭐ Business Impact Delivered
-- **80% faster insight discovery** through automated KPI design  
-- **3 major attrition hotspots identified**, enabling targeted HR action  
-- **Role-level satisfaction patterns uncovered** for performance improvement  
-- **Demographic risk mapping** supports future hiring and retention strategy  
+- Delivered actionable HR insights through automated KPI design, targeted attrition analysis, and demographic risk mapping
+- 80% faster insight discovery through automated KPI design
+- 3 major attrition hotspots identified, enabling targeted HR action
+- Role-level satisfaction patterns uncovered for performance improvement
+- Demographic risk mapping supports future hiring and retention strategy
+
+
+
 
 ### ⭐ Professional Strengths Demonstrated
 - Executive-level data storytelling  
