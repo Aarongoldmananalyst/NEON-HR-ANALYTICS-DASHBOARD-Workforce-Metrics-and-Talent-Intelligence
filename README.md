@@ -45,11 +45,17 @@ https://github.com/user-attachments/assets/e8004917-6d0c-44cd-84c8-874f760448ab
 
 
 
+
+
+<div align="center">
+
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-00E5FF?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/shared/FBSM56W8K?:display_count=n&:origin=viz_share_link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF2DCF?style=for-the-badge)](https://github.com/Aarongoldmananalyst)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-goldmans)
-[![Resume](https://img.shields.io/badge/Resume-39FF14?style=for-the-badge)](https://github.com/Aarongoldmananalyst/Aaron-Goldman-Resume/raw/main/Aaron_Goldman_Resume.pdf)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail)]()
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarondatascientist@gmail.com)
+
+</div>
+
 
 
 
@@ -182,6 +188,8 @@ Role-level satisfaction patterns revealed for performance improvement
 
 Demographic risk mapping supports future recruiting & retention strategy
 
+---
+
 ##  🌐 CONNECT & EXPLORE MORE
 
 
@@ -189,13 +197,14 @@ Demographic risk mapping supports future recruiting & retention strategy
 
 
 
-## 🚀 QUICK ACCESS
+
 
 <div align="center">
 
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-00E5FF?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/shared/FBSM56W8K?:display_count=n&:origin=viz_share_link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF2DCF?style=for-the-badge)](https://github.com/Aarongoldmananalyst)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-goldmans)
-[![Resume](https://img.shields.io/badge/Resume-39FF14?style=for-the-badge)](https://github.com/Aarongoldmananalyst/Aaron-Goldman-Resume/raw/main/Aaron_Goldman_Resume.pdf)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail)]()
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarondatascientist@gmail.com)
+
+</div>
 
